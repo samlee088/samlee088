@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+## My name is Sam, nice to meet you~! :bowtie:
+
+
+
 
 <!--
 **samlee088/samlee088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
