@@ -1,7 +1,17 @@
 # Hi there 👋
 ## My name is Sam, nice to meet you~! :bowtie:
 
-
+ - Full Stack Software Engineer
+ - Functionality and substance reigns supreme
+ - A project can never achieve perfection, but its always worth putting in effort to get there
+ 
+ 
+ 
+ 
+ 
+ [Feel free to checkout my coding portfolio](https://samlee088.github.io/coding-portfolio/#about)
+ 
+ 
 
 
 <!--
