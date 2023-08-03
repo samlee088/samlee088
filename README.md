@@ -9,7 +9,7 @@
  
  
  
- [Feel free to checkout my coding portfolio](https://samlee088.github.io/coding-portfolio/#about)
+ [Link to coding portfolio](https://samlee088.github.io/coding-portfolio/#about)
  
  
 
