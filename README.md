@@ -9,7 +9,7 @@
  
  
  
- [Link to coding portfolio](https://samlee088.github.io/coding-portfolio/#about)
+ [Link to coding portfolio](https://nextjs-portfolio-nine-hazel.vercel.app/)
  
  
 
